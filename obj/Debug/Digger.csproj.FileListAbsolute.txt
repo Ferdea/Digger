@@ -1,0 +1,17 @@
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\Images\Digger.png
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\Images\Gold.png
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\Images\Monster.png
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\Images\Sack.png
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\Images\Terrain.png
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\11-digger.exe.config
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\11-digger.exe
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\11-digger.pdb
+C:\Users\sapeg\Downloads\digger.csproj\bin\Debug\nunit.framework.dll
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.csproj.AssemblyReference.cache
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\11-digger.exe
+C:\Users\sapeg\Downloads\digger.csproj\obj\Debug\11-digger.pdb
